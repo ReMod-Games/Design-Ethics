@@ -12,3 +12,4 @@ You can contribute to improving the design rules by the following ways:
 - Rewriting parts in more appealing to read fashions.
 - Discussing and eventually adding onto the design phiosophy. 
 - Making sure that all rules apply retroactively and do not interfere with one another unless explicitely stated to.
+
